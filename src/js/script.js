@@ -1,2 +1,0 @@
-let yay;
-let gooooo;
