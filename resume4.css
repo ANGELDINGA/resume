@@ -1,0 +1,33 @@
+* {
+    font-family: optima, sans-serif;
+}
+a {
+    color: #FF9671;
+}
+h1 {
+    color: #5F3F2E;
+}
+h2 {
+    color: #54433A;
+}
+p {
+    color: #C14C35;
+}
+h3 {
+    color: #54433A;
+}
+li {
+    color:  #C14C35 ;
+}
+header {
+    color: #CAA38E;
+}
+header, aside {
+    background-color: antiquewhite;
+}
+article {
+    background-color: #e2bcb4;
+}
+footer {
+    background-color: #fc8647;
+}
