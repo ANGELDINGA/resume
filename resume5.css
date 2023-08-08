@@ -12,6 +12,8 @@ h2 {
 }
 p {
     color: #C14C35;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 h3 {
     color: #54433A;
@@ -46,4 +48,7 @@ img {
   border-bottom: 10%;
   border-color: #FF9671;
   border-radius: 50%; 
+}
+.whatisaclass {
+    color: #C14C35;
 }
