@@ -1,0 +1,53 @@
+* {
+    font-family: optima, sans-serif;
+}
+a {
+    color: #FF9671;
+}
+h1 {
+    color: #5F3F2E;
+}
+h2 {
+    color: #54433A;
+}
+p {
+    color: #C14C35;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+h3 {
+    color: #54433A;
+}
+li {
+    color:  #C14C35 ;
+}
+header, aside {
+    background-color: antiquewhite;
+    padding: 40px ;
+    margin: 40px;
+}
+article {
+    background-color: #e2bcb4;
+    padding: 40px;
+    margin: 40px
+}
+footer {
+    background-color: #fc8647;
+    padding: 40px;
+    margin: 40px
+}
+body {
+   border-style: solid; 
+    border-width: 11px;
+  border-color: #FF9671;
+}
+img {
+    border-style: solid;
+  border-width: 1.5px;
+  border-top: 10%;
+  border-bottom: 10%;
+  border-color: #FF9671;
+  border-radius: 50%; 
+}
+.whatisaclass {
+    color: #C14C35;}
