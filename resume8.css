@@ -62,3 +62,11 @@ img {
   border-color: #FF9671;
   border-radius: 50%; 
 }
+@media only screen and (min-width: 600px) { 
+    article {
+        background-color: #e2bcb4;
+        padding: 40px;
+        margin: 10px;
+    }
+    #hero { 
+        height: fit-content;} 
