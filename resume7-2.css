@@ -21,7 +21,12 @@ h3 {
 li {
     color:  #C14C35 ;
 }
-header, aside {
+header {
+    background-color: antiquewhite;
+    padding: 40px ;
+    
+}
+ aside  {
     background-color: antiquewhite;
     padding: 40px ;
     margin: 40px;
@@ -31,15 +36,20 @@ article {
     padding: 40px;
     margin: 40px
 }
+
 footer {
-    background-color: #fc8647;
     padding: 40px;
-    margin: 40px
+margin-top: 40px;
+border-style: solid; 
+border-width: 11px;
+border-color: #FF9671;
 }
-body {
+
+section {
    border-style: solid; 
     border-width: 11px;
   border-color: #FF9671;
+  margin-top: 40px;
 }
 
 .whatisaclass {
@@ -49,10 +59,10 @@ body {
     background: white url(images/favicon.png);
     background-repeat: no-repeat;
     height: 100vh;
-    background-position: center;
+    width: 100%;
   background-repeat:no-repeat;
   background-size:cover;
-  position:relative;
+  padding: 40px;
 }
 img {
     border-style: solid;
